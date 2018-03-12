@@ -14,4 +14,29 @@ echo var_dump($row);
 
 }
 
+
+/*
+
+
+$stmnt=$db->query//prvious method
+
+but now
+
+
+$stmnt=$db->prepare(as usual noral mysql
+query in place of db col names we use here ? ?) -> which position plce holder
+
+
+$stmnt=$db->prepare(as usual noral mysql
+query in place of db col names we use here ? ?) ->
+which named plce holder :anme :name
+
+
+
+
+*/
+
+
+
+
 ?>

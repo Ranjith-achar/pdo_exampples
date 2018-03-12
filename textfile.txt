@@ -1,0 +1,4 @@
+
+we can pass values in two ways in prepared statement
+
+one is by default positional plce holders and named plaace holders
