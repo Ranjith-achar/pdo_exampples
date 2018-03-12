@@ -12,5 +12,12 @@ while($row=$stmnt->fetch())
 
 echo "<pre>" . var_dump($row) . "</pre>";
 
+/*we can check the content of fetched array
+
+using var dump 
+
+*/
+
+
 }
 ?>
