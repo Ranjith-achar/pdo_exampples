@@ -20,4 +20,17 @@ using var dump
 
 
 }
+
+/*
+
+$stmnt=$db->query("SELECT * FROM pdo_post_tabel");
+
+while($row=$stmnt->fecth()){
+	
+}
+
+
+
+*/
+
 ?>
